@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated software engineer proficient in JavaScript for front-end and back-end web development.  Eager to bring my skills and experience to a dynamic team and continue growing and learning as a professional. <br><br>🌍 I'm based in United States<br>🔭 I’m currently working on a local barbershop's website<br>🌱  I'm learning Web-flow. Mastering Javascript, React, and CSS.<br>🖥️ See my portfolio at [My Portfolio](https://kaschae-freeman-portfolio.com)<br>✉️ [Contact Me](mailto:kaschaefreeman@gmail.com)<br>⚡ Ex Professional Dead Or Alive player, currently playing Overwatch 2
+Motivated software engineer proficient in JavaScript for front-end and back-end web development.  Eager to bring my skills and experience to a dynamic team and continue growing and learning as a professional. <br><br>🌍 I'm based in United States<br>🔭 I’m currently working on a local barbershop's website<br>🌱  I'm learning Angular and Python. Mastering Javascript, React, and CSS.<br>🖥️ See my portfolio at [My Portfolio](https://kaschae-freeman-portfolio.com)<br>✉️ [Contact Me](mailto:kaschaefreeman@gmail.com)<br>⚡ Ex Professional Dead Or Alive player, currently playing Overwatch 2
 
 
 ## 🌐 Socials:
